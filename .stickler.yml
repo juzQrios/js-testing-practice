@@ -3,6 +3,6 @@ linters:
     config: './.eslintrc.js'
 files:
     ignore:
-      - 'webpack.config.js'
+      - 'babel.config.js'
       - '.eslintrc.js'
       - 'dist/main.js'
