@@ -7,7 +7,7 @@ Test Driven Development practice using [Jest](https://jestjs.io/en/)
 ```bash
 git clone git@github.com:juzQrios/js-testing-practice.git
 cd js-testing-practice
-git checkout js-testing
+git checkout testing-practice
 npm install
 npm test
 ```
