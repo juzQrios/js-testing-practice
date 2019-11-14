@@ -1,0 +1,8 @@
+linters:
+  eslint:
+    config: './.eslintrc.js'
+files:
+    ignore:
+      - 'babel.config.js'
+      - '.eslintrc.js'
+      - 'dist/main.js'
